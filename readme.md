@@ -29,3 +29,5 @@ numărul lunelor se citesc de la tastatură. Cât s-a plătit în total amendă?
   [Cod sursa Programare C++](https://repl.it/@nataliadumbrava/DatoriidecontbancarC#main.c)
   
 ## Screenshot-uri
+![GitHub Logo](/Repl.it_C++.png)
+![GitHub Logo](/Repl.it_programare_C.png)
