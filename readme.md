@@ -20,7 +20,7 @@ numărul lunelor se citesc de la tastatură. Cât s-a plătit în total amendă?
 3.	Calcularea datoriilor și a penalităților lunare  din sumele depozitate după formula creată de bancă, folosind buclele controlate de contor și a instrucțiunii if.
 4.	Afișarea rezultatului  la ecran. 
 ## 2. Descrierea algoritmului prin pseudocod.
-![GitHub Logo](/Pseudocodul_20%algoritmului.png)
+![GitHub Logo](/Pseudocodul_%20algoritmului.png)
 ## 3. Schema bloc:
 ![GitHub Logo](/schema_bloc.png)
 ## 4. Cod sursa
