@@ -1,5 +1,6 @@
 ##  Problema Decontare datoriilor bancare. 
 accesati https://repl.it/@nataliadumbrava/DatoriidecontbancarC-1#main.cpp
+
 https://repl.it/@nataliadumbrava/DatoriidecontbancarC#main.c
 
 # Scopul
