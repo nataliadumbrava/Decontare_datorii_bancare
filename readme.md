@@ -18,3 +18,4 @@ numărul lunelor se citesc de la tastatură. Cât s-a plătit în total amendă?
 ## 2. Descrierea algoritmului prin pseudocod.
 ![GitHub Logo](/Pseudocodul%20algoritmului.png)
 ## 3. Schema bloc:
+![GitHub Logo](/schema_bloc.png)
