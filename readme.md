@@ -1,4 +1,4 @@
-##  Problema Decontare datoriilor bancare. 
+##  Problema: Decontare datoriilor bancare. 
 accesati https://repl.it/@nataliadumbrava/DatoriidecontbancarC-1#main.cpp
 
 https://repl.it/@nataliadumbrava/DatoriidecontbancarC#main.c
@@ -32,3 +32,5 @@ numărul lunelor se citesc de la tastatură. Cât s-a plătit în total amendă?
 ![GitHub Logo](/Repl.it_C++.png)
 ![GitHub Logo](/Repl.it_programare_C.png)
 # Concluzii
+În urma realizării acestei sarcini se poate cu certitudine de afirmat că au fost studiate platforme pentru scrierea și păstrarea programelor și fișierilor în mediul online, crearea și gestionarea repozitoriilor Github. În concluzie se poate cu siguranță de spus că cunoștințele în cadrul acestei sarcini vor fi de mare folos pe viitor pentru realizarea altor sarcini
+
