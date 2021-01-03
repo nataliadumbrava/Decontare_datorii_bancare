@@ -1,6 +1,6 @@
 ##  Problema Decontare datoriilor bancare. 
 # Scopul
-Rezolvarea problemelor și crearea crearea algoritmilor cu ajutorul instrucțiunilor buclelor controlate de contor.
+Rezolvarea problemelor și crearea algoritmilor cu ajutorul instrucțiunilor buclelor controlate de contor.
 # Problema
 Pe un cont lunar se depune o sumă oarecare (diferite luni – diferite sume). Lunar pentru a achita datoriile de pe acelaș cont se decontează o altă sumă de bani
 (diferite în diferite luni). Se poate întâmpla că suma de pe cont să nu fie destulă pentru achitarea datoriilor. Deaceea, pentru prima neachitare se presupune o amendă de 1% 
@@ -16,3 +16,5 @@ numărul lunelor se citesc de la tastatură. Cât s-a plătit în total amendă?
 3.	Calcularea datoriilor și a penalităților lunare  din sumele depozitate după formula creată de bancă, folosind buclele controlate de contor și a instrucțiunii if.
 4.	Afișarea rezultatului  la ecran. 
 ## 2. Descrierea algoritmului prin pseudocod.
+![GitHub Logo](/Pseudocodul%20algoritmului.png)
+## 3. Schema bloc:
