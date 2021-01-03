@@ -23,3 +23,5 @@ numărul lunelor se citesc de la tastatură. Cât s-a plătit în total amendă?
 ![GitHub Logo](/Pseudocodul%20algoritmului.png)
 ## 3. Schema bloc:
 ![GitHub Logo](/schema_bloc.png)
+## 4. [Cod sursa Programare C](https://repl.it/@nataliadumbrava/DatoriidecontbancarC#main.c)
+##    [Cod sursa Programare C++](https://repl.it/@nataliadumbrava/DatoriidecontbancarC#main.c)
